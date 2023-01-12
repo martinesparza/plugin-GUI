@@ -175,3 +175,4 @@ installed_libs
 #13. VSCode related
 .vscode/
 build/
+.idea/
